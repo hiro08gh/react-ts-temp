@@ -5,3 +5,7 @@
 - redux
 - react-saga
 - styled-components
+
+- jest
+- @testing-library/react
+- enzyme
